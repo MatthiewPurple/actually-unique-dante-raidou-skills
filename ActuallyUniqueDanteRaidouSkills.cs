@@ -1,13 +1,13 @@
 ﻿using MelonLoader;
 using Il2Cpp;
-using dante_raidou_buff;
+using actually_unique_dante_raidou_skills;
 using HarmonyLib;
 
-[assembly: MelonInfo(typeof(DanteRaidouBuff), "Dante/Raidou buff", "1.0.0", "Matthiew Purple")]
+[assembly: MelonInfo(typeof(ActuallyUniqueDanteRaidouSkills), "Actually unique Dante/Raidou skills", "1.0.0", "Matthiew Purple")]
 [assembly: MelonGame("アトラス", "smt3hd")]
 
-namespace dante_raidou_buff;
-public class DanteRaidouBuff : MelonMod
+namespace actually_unique_dante_raidou_skills;
+public class ActuallyUniqueDanteRaidouSkills : MelonMod
 {
     private static bool isHolyStar; // is true when the last used skill was Holy Star / Raptor Guardian
 

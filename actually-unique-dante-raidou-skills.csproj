@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>dante_raidou_buff</RootNamespace>
-    <AssemblyName>dante_raidou_buff</AssemblyName>
+    <RootNamespace>actually_unique_dante_raidou_skills</RootNamespace>
+    <AssemblyName>actually_unique_dante_raidou_skills</AssemblyName>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
